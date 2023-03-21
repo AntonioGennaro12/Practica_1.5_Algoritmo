@@ -1,0 +1,19 @@
+
+MI ALGORITMO PARA PREPARAR MATE EN BOMBILLA
+1. Tengo al menos 100 gramos de yerba? Si es sí, continúo en 2, sino ir a 15
+2. Tengo al menos 750ml de agua? Si es sí, continúo en 3, sino ir a 15
+3. Tengo un recipiente calentador de agua? Si es sí, continúo en 4, sino ir a 15
+4. Tengo mate y bobilla? Sí es sí, continuo en 5, sino ir a 15
+5. Poner el agua en el calentador de agua.
+6. Activar el calentador para que caliente el agua.
+7. Poner una cucharada de yerba en el mate.
+8. llegó la yerba hasta las 3/4 partes del mate? si es si, continuar en 9, sino volver a 7.
+9. Tapar el mate con una mano y ponerlo boca abajo.
+10. Agitar el mate durante 10 segundos.
+11. Ederezar el mate y quitar la mano.
+12. Colocar la bombilla desde uno de los costados hasta el fondo y empujarla hacia el centro.
+13. Ver si el agua caliente comienza a producir burbujas del tamano de uno a 2 milímetros. si es si ir a 14, sino volver a 13
+14. Desactivar el calentador de agua. Ir a 16.
+15. Fin con ERROR: Faltan Ingredientes
+16. Fin con Éxito!! a Disfrutar el mate!!!  
+

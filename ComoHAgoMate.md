@@ -14,7 +14,7 @@ que tenga un sistema de calentamiento eléctrico que tarde mínimo 5 minutos en 
 10. Agitar el mate durante 10 segundos.
 11. Ederezar el mate en la mesa y quitar la mano de la boca del mate.
 12. Colocar la bombilla desde uno de los costados hasta el fondo y empujarla hacia el centro.
-13. El agua del recipiente comienza a producir burbujas del tamano de 1 a 2 milímetros de diámetro? Si es sí ir a 14, sino esperr 5 segundos y volver a 13.
+13. El agua del recipiente comienza a producir burbujas del tamano de 1 a 2 milímetros de diámetro? Si es sí ir a 14, sino esperar 5 segundos y volver a 13.
 14. Desactivar el calentador de agua. Ir a 16.
 15. Fin con ERROR: Faltan ingredientes o elementos.
 16. Fin con Éxito!! Comenzar a cebar y a disfrutar el mate!!!
